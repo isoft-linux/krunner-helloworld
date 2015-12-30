@@ -1,0 +1,23 @@
+[Desktop Entry]
+Name=Helloworld
+Name[en_GB]=Helloworld
+Name[fr]=Helloworld
+Name[ia]=Helloworld
+Name[x-test]=xxHelloworldxx
+Name[zh_CN]=您好世界
+Name[zh_TW]=您好世界
+Comment=Hello world
+Comment[zh_CN]=您好世界
+Comment[zh_TW]=您好世界
+X-KDE-ServiceTypes=Plasma/Runner
+Type=Service
+Icon=text-x-c++src
+X-KDE-Library=krunner_helloworld
+X-Plasma-RunnerPhase=first
+X-KDE-PluginInfo-Author=Leslie Zhai
+X-KDE-PluginInfo-Email=xiang.zhai@i-soft.com.cn
+X-KDE-PluginInfo-Name=helloworld
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-AdvertiseSingleRunnerQueryMode=true
